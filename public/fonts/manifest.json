@@ -1,0 +1,121 @@
+{
+  "source": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Inter:wght@400;500;600;700;800&display=swap",
+  "license": "SIL Open Font License",
+  "fonts": [
+    {
+      "file": "font-1.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys43PWrfQ.woff2",
+      "bytes": 42848
+    },
+    {
+      "file": "font-2.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ysw3PWrfQ.woff2",
+      "bytes": 1448
+    },
+    {
+      "file": "font-3.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ysz3PWrfQ.woff2",
+      "bytes": 6656
+    },
+    {
+      "file": "font-4.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys93PU.woff2",
+      "bytes": 19164
+    },
+    {
+      "file": "font-5.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_-CRXMR5Kw.woff2",
+      "bytes": 45296
+    },
+    {
+      "file": "font-6.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_-CZXMR5Kw.woff2",
+      "bytes": 1456
+    },
+    {
+      "file": "font-7.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_-CaXMR5Kw.woff2",
+      "bytes": 6540
+    },
+    {
+      "file": "font-8.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_-CUXMQ.woff2",
+      "bytes": 20088
+    },
+    {
+      "file": "font-9.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-OCRXMR5Kw.woff2",
+      "bytes": 45688
+    },
+    {
+      "file": "font-10.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-OCZXMR5Kw.woff2",
+      "bytes": 1476
+    },
+    {
+      "file": "font-11.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-OCaXMR5Kw.woff2",
+      "bytes": 6680
+    },
+    {
+      "file": "font-12.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-OCUXMQ.woff2",
+      "bytes": 20500
+    },
+    {
+      "file": "font-13.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-eCRXMR5Kw.woff2",
+      "bytes": 44280
+    },
+    {
+      "file": "font-14.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-eCZXMR5Kw.woff2",
+      "bytes": 1476
+    },
+    {
+      "file": "font-15.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-eCaXMR5Kw.woff2",
+      "bytes": 6564
+    },
+    {
+      "file": "font-16.woff2",
+      "source": "https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-eCUXMQ.woff2",
+      "bytes": 19504
+    },
+    {
+      "file": "font-17.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2",
+      "bytes": 25960
+    },
+    {
+      "file": "font-18.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2",
+      "bytes": 18748
+    },
+    {
+      "file": "font-19.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2",
+      "bytes": 11232
+    },
+    {
+      "file": "font-20.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2",
+      "bytes": 18996
+    },
+    {
+      "file": "font-21.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2",
+      "bytes": 10252
+    },
+    {
+      "file": "font-22.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2",
+      "bytes": 85068
+    },
+    {
+      "file": "font-23.woff2",
+      "source": "https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2",
+      "bytes": 48256
+    }
+  ]
+}
