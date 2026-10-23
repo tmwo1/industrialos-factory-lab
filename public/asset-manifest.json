@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "geometry": {
+    "source": "Original procedural geometry in src/components/FactoryScene.tsx",
+    "externalModels": false,
+    "note": "Illustrative original equipment; not manufacturer CAD or a certified machine model"
+  },
+  "textures": {
+    "source": "Original deterministic Canvas2D textures",
+    "externalTextures": false,
+    "note": "Generated locally; no remote runtime texture requests"
+  },
+  "environment": {
+    "source": "Three.js RoomEnvironment",
+    "externalHdri": false,
+    "implementation": "three/addons/environments/RoomEnvironment.js"
+  },
+  "fonts": {
+    "manifest": "/fonts/manifest.json",
+    "licenses": [
+      "/fonts/IBM-Plex-OFL.txt",
+      "/fonts/Inter-OFL.txt"
+    ],
+    "license": "SIL Open Font License 1.1",
+    "runtimeRequests": "self-hosted"
+  },
+  "icons": {
+    "package": "lucide-react",
+    "license": "ISC"
+  },
+  "thirdPartyLicenseRecord": "/docs/ASSETS.md"
+}
