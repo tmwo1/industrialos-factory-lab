@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.sites-runtime/
+.sites-cache/
+*.tsbuildinfo
+artifacts/
+!public/artifacts/
+
+.env
+.env.*
+!.env.example
